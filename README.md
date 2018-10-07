@@ -1,2 +1,3 @@
 # go_iso
-isomorphic go development
+modern go development
+- - -
