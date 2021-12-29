@@ -1,3 +1,3 @@
-# go_iso
+# dev_IsoGO
 modern go development
 - - -
